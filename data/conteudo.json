@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "capa",
+    "titulo": "SYN",
+    "subtitulo": "Revista Técnica e Criativa",
+    "edicao": "Edição Nº 01 // 2025",
+    "slug": "ed01"
+  },
+  {
+    "tipo": "artigo",
+    "secao": "Tecnologia",
+    "titulo": "Inteligência Artificial e o Futuro",
+    "texto": "A IA está transformando o mundo. Neste artigo, exploramos como os modelos generativos, como o GPT, estão moldando a indústria.",
+    "citar": "A IA não substituirá você. Alguém usando IA, sim.",
+    "fundo_escuro": true
+  },
+  {
+    "tipo": "glossario",
+    "titulo": "Termos Técnicos",
+    "termos": {
+      "IA": "Inteligência Artificial, área da computação focada em criar sistemas inteligentes.",
+      "LLM": "Large Language Model – modelos capazes de gerar linguagem humana de forma convincente."
+    }
+  },
+  {
+    "tipo": "contracapa",
+    "mensagem": "Obrigado por ler a edição 01!",
+    "redes": "@SyraDevOps  •  github.com/SyraDevOps",
+    "site": "syradevops.com",
+    "slug": "ed01"
+  }
+]

@@ -1,0 +1,11 @@
+nome_arquivo: revista_SYN_Ed01
+fonte_padrao: Helvetica
+tamanho_fonte: 11
+cores:
+  primaria: '#7A00FF'
+  fundo_claro: '#FFFFFF'
+  fundo_escuro: '#121212'
+  texto_claro: '#FFFFFF'
+  texto_escuro: '#121212'
+qr:
+  url_base: https://syradevops.com/syn/edicoes

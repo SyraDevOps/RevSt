@@ -1,0 +1,29 @@
+syra:
+  fonte_padrao: Helvetica
+  tamanho_fonte: 11
+  cores:
+    primaria: "#7A00FF"
+    fundo_claro: "#FFFFFF"
+    fundo_escuro: "#121212"
+    texto_claro: "#FFFFFF"
+    texto_escuro: "#121212"
+
+futurista:
+  fonte_padrao: Courier
+  tamanho_fonte: 12
+  cores:
+    primaria: "#00FFFF"
+    fundo_claro: "#0F0F0F"
+    fundo_escuro: "#000000"
+    texto_claro: "#00FFFF"
+    texto_escuro: "#CCCCCC"
+
+minimal:
+  fonte_padrao: Times-Roman
+  tamanho_fonte: 10
+  cores:
+    primaria: "#222222"
+    fundo_claro: "#FAFAFA"
+    fundo_escuro: "#DDDDDD"
+    texto_claro: "#000000"
+    texto_escuro: "#333333"

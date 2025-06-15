@@ -1,0 +1,6 @@
+2025-06-15 02:10:07,822 - INFO - Inicialização do gerador de revista.
+2025-06-15 02:10:07,824 - INFO - Gerando página tipo: capa
+2025-06-15 02:10:07,906 - INFO - Gerando página tipo: artigo
+2025-06-15 02:10:07,908 - INFO - Gerando página tipo: glossario
+2025-06-15 02:10:07,909 - INFO - Gerando página tipo: contracapa
+2025-06-15 02:10:07,922 - INFO - Revista gerada com sucesso em: output/revista_SYN_Ed01.pdf
